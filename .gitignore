@@ -1,0 +1,8 @@
+##############################
+## IntelliJ
+##############################
+.idea/
+project/project/target
+project/target/
+resource/*.jar
+target/
